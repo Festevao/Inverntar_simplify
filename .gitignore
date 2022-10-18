@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+#TLS from https file
+server.crt
+server.key
